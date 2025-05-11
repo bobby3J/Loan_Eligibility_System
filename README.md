@@ -19,7 +19,7 @@ The form is styled using Bootstrap for a clean and responsive user interface.
 - Python 3.x
 - Django 3.x or 4.x
 - Bootstrap 4
-- SQLite (default Django DB)
+- MySQL 
 
 ---
 
